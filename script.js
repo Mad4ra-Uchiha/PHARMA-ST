@@ -167,13 +167,13 @@ document.addEventListener('DOMContentLoaded', () => {
             userAnswerContent: question.options.find(opt => opt.id === selectedOptionId).content,
             feedback: question.feedback |
 
-| '',
+| '', // Corrected from | |
             dosageInfo: question.dosageInfo |
 
-| '',
+| '', // Corrected from | |
             interactionInfo: question.interactionInfo |
 
-| ''
+| '' // Corrected from | |
         });
 
         // Provide immediate visual feedback on the selected option
