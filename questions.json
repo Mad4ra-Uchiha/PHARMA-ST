@@ -12,8 +12,8 @@
       ],
       "correctAnswer": "c",
       "feedback": "La dosis máxima diaria de Paracetamol para adultos es de 4 gramos. Es crucial no exceder esta dosis para evitar daño hepático, especialmente si se combina con otros productos que contengan Paracetamol.",
-      "dosageInfo": "Adultos: 500-650 mg cada 4-6h; máx. 4 g/día. Niños: 10-15 mg/kg cada 4-6h; máx. 60 mg/kg/día. [1, 2, 3, 4]",
-      "interactionInfo": "Aumenta el efecto de anticoagulantes orales. Hepatotoxicidad potenciada por alcohol e isoniazida. Biodisponibilidad disminuida por anticonvulsivantes. [1, 3, 5, 6]"
+      "dosageInfo": "Adultos: 500-650 mg cada 4-6h; máx. 4 g/día. Niños: 10-15 mg/kg cada 4-6h; máx. 60 mg/kg/día. [1, 2, 3, 4, 5, 6, 7]",
+      "interactionInfo": "Aumenta el efecto de anticoagulantes orales. Hepatotoxicidad potenciada por alcohol e isoniazida. Biodisponibilidad disminuida por anticonvulsivantes. [3, 5, 8]"
     },
     {
       "id": "Q002",
@@ -23,8 +23,8 @@
       "options":,
       "correctAnswer": "b",
       "feedback": "El uso de Amoxicilina puede reducir la eficacia de las píldoras anticonceptivas y otros métodos hormonales. Se recomienda el uso de métodos de barrera durante el tratamiento para prevenir embarazos no deseados.",
-      "dosageInfo": "Adultos: 500 mg cada 8 horas. Niños: 40-45 mg/kg/día en tres dosis divididas. [7, 8, 9]",
-      "interactionInfo": "Puede reducir la eficacia de anticonceptivos hormonales. Sinergismo con aminoglucósidos. [10, 11]"
+      "dosageInfo": "Adultos: 500 mg cada 8 horas. Niños: 40-45 mg/kg/día, vía oral, en tres dosis divididas. [9, 10, 11]",
+      "interactionInfo": "Puede reducir la eficacia de anticonceptivos hormonales. Sinergismo con aminoglucósidos. [12, 13, 14]"
     },
     {
       "id": "Q003",
@@ -34,8 +34,8 @@
       "options":,
       "correctAnswer": "b",
       "feedback": "Clarityne® es una marca comercial cuyo principio activo es la Loratadina, un antihistamínico no sedante de segunda generación.",
-      "dosageInfo": "Adultos y niños > 12 años: 10 mg, 1 vez/día. Niños 2-12 años (> 30 kg): 10 mg, 1 vez/día; (≤ 30 kg): 5 mg, 1 vez/día. [1, 12, 13, 14]",
-      "interactionInfo": "Posible aumento de nivel plasmático con inhibidores de CYP3A4 o CYP2D6 (ej. cimetidina, eritromicina, ketoconazol). [13, 15, 16]"
+      "dosageInfo": "Adultos y niños > 12 años: 10 mg, 1 vez/día. Niños 2-12 años (> 30 kg): 10 mg, 1 vez/día; (≤ 30 kg): 5 mg, 1 vez/día. [15, 16, 17]",
+      "interactionInfo": "Posible aumento de nivel plasmático con inhibidores de CYP3A4 o CYP2D6 (ej. cimetidina, eritromicina, ketoconazol). [18, 19, 20]"
     },
     {
       "id": "Q004",
@@ -45,8 +45,8 @@
       "options":,
       "correctAnswer": "c",
       "feedback": "El Omeprazol es un Inhibidor de la Bomba de Protones (IBP), que reduce la producción de ácido en el estómago de forma más potente y prolongada que los antiácidos tradicionales.",
-      "dosageInfo": "Adultos: 20 mg 1 vez/día (reflujo); 20 mg 2 veces/día (H. pylori). Niños ≥ 1 año y 10-20 kg: 10 mg 1 vez/día. [1, 17, 18, 19]",
-      "interactionInfo": "Puede alterar la absorción de otros fármacos al modificar el pH gástrico (ej. ketoconazol, itraconazol, hierro, tetraciclinas, quinolonas, atazanavir, clopidogrel, vitamina B12). [1, 20, 21, 22, 23]"
+      "dosageInfo": "Adultos: 20 mg 1 vez/día (reflujo); 20 mg 2 veces/día (H. pylori). Niños ≥ 1 año y 10-20 kg: 10 mg 1 vez/día. [21, 22, 23]",
+      "interactionInfo": "Puede alterar la absorción de otros fármacos al modificar el pH gástrico (ej. ketoconazol, itraconazol, hierro, tetraciclinas, quinolonas, atazanavir, clopidogrel, vitamina B12). [24, 25, 26, 27]"
     },
     {
       "id": "Q005",
@@ -56,8 +56,8 @@
       "options":,
       "correctAnswer": "c",
       "feedback": "Betarretin® es una marca común de Ácido Retinoico (Tretinoína), utilizado principalmente para el tratamiento del acné y el fotoenvejecimiento.",
-      "dosageInfo": "Aplicación tópica, generalmente una vez al día por la noche. La concentración varía (0.025%, 0.05%). [1]",
-      "interactionInfo": "Evitar el uso concomitante con otros irritantes tópicos. Aumenta la sensibilidad al sol. [1]"
+      "dosageInfo": "Aplicación tópica, generalmente una vez al día por la noche. La concentración varía (0.025%, 0.05%). [28]",
+      "interactionInfo": "Evitar el uso concomitante con otros irritantes tópicos. Aumenta la sensibilidad al sol. [28]"
     },
     {
       "id": "Q006",
@@ -67,8 +67,8 @@
       "options":,
       "correctAnswer": "c",
       "feedback": "El Acetaminofén (Paracetamol) es el analgésico de venta libre con mayor riesgo de hepatotoxicidad si se excede la dosis máxima diaria, especialmente con el consumo de alcohol.",
-      "dosageInfo": "Adultos: 500-650 mg cada 4-6h; máx. 4 g/día. [1, 2, 3, 4]",
-      "interactionInfo": "Hepatotoxicidad potenciada por alcohol e isoniazida. [1, 3, 5, 6]"
+      "dosageInfo": "Adultos: 500-650 mg cada 4-6h; máx. 4 g/día. [1, 2, 3, 4, 5, 6, 7]",
+      "interactionInfo": "Hepatotoxicidad potenciada por alcohol e isoniazida. [3, 5, 8]"
     },
     {
       "id": "Q007",
@@ -83,8 +83,8 @@
       ],
       "correctAnswer": "c",
       "feedback": "La Azitromicina es conocida por su régimen de dosificación corto (generalmente 3 o 5 días) debido a su larga vida media y acumulación en los tejidos.",
-      "dosageInfo": "Adultos: 500 mg el primer día, luego 250 mg del día 2 al 5 (o 500 mg/día por 3 días). Niños: 10 mg/kg el día 1, luego 5 mg/kg del día 2 al 5. [1, 24, 25, 26]",
-      "interactionInfo": "Aumenta el riesgo de arritmias cardíacas (prolongación del intervalo QT). Aumenta los niveles séricos de digoxina y colchicina. [27, 28]"
+      "dosageInfo": "Adultos: 500 mg el primer día, luego 250 mg del día 2 al 5 (o 500 mg/día por 3 días). Niños: 10 mg/kg el día 1, luego 5 mg/kg del día 2 al 5. [29, 30]",
+      "interactionInfo": "Aumenta el riesgo de arritmias cardíacas (prolongación del intervalo QT). Aumenta los niveles séricos de digoxina y colchicina. [31, 32]"
     },
     {
       "id": "Q008",
@@ -94,8 +94,8 @@
       "options":,
       "correctAnswer": "b",
       "feedback": "La Loratadina, aunque puede tener interacciones con inhibidores de CYP3A4, generalmente presenta menos interacciones clínicamente significativas en comparación con otros antihistamínicos.",
-      "dosageInfo": "Adultos y niños > 12 años: 10 mg, 1 vez/día. [1, 12, 13, 14]",
-      "interactionInfo": "Posible aumento de nivel plasmático con inhibidores de CYP3A4 o CYP2D6 (ej. cimetidina, eritromicina, ketoconazol), pero sin prolongación significativa del intervalo QT. [13, 15, 16]"
+      "dosageInfo": "Adultos y niños > 12 años: 10 mg, 1 vez/día. [15, 16, 17]",
+      "interactionInfo": "Posible aumento de nivel plasmático con inhibidores de CYP3A4 o CYP2D6 (ej. cimetidina, eritromicina, ketoconazol), pero sin prolongación significativa del intervalo QT. [18, 19, 20]"
     },
     {
       "id": "Q009",
@@ -105,8 +105,8 @@
       "options":,
       "correctAnswer": "c",
       "feedback": "Tanto los antiácidos como los Inhibidores de la Bomba de Protones (IBP) alteran el pH gástrico, lo que puede afectar la absorción de otros medicamentos que requieren un ambiente ácido para su disolución y absorción.",
-      "dosageInfo": "Antiácidos: Dosis según necesidad, hasta 5-7 veces al día. Omeprazol: 20 mg 1 vez/día. [1, 29, 30, 19]",
-      "interactionInfo": "Pueden disminuir la absorción de ketoconazol, itraconazol, sales de hierro, tetraciclinas, quinolonas, atazanavir, clopidogrel. [1, 20, 21]"
+      "dosageInfo": "Antiácidos: Dosis según necesidad, hasta 5-7 veces al día. Omeprazol: 20 mg 1 vez/día. [33, 23]",
+      "interactionInfo": "Pueden disminuir la absorción de ketoconazol, itraconazol, sales de hierro, tetraciclinas, quinolonas, atazanavir, clopidogrel. [24, 25]"
     },
     {
       "id": "Q010",
@@ -116,8 +116,8 @@
       "options":,
       "correctAnswer": "c",
       "feedback": "La Dexametasona es un corticosteroide tópico potente, utilizado para reducir la inflamación y el prurito en diversas afecciones dermatológicas.",
-      "dosageInfo": "Aplicación tópica, generalmente 1-2 veces al día, en capa fina. [1]",
-      "interactionInfo": "El uso prolongado o en grandes áreas puede llevar a efectos sistémicos. [1]"
+      "dosageInfo": "Aplicación tópica, generalmente 1-2 veces al día, en capa fina. [28]",
+      "interactionInfo": "El uso prolongado o en grandes áreas puede llevar a efectos sistémicos. [28]"
     },
     {
       "id": "Q011",
@@ -132,8 +132,8 @@
       ],
       "correctAnswer": "b",
       "feedback": "La dosis usual de Ibuprofeno para adultos como analgésico o antipirético es de 200-400 mg cada 6-8 horas, sin exceder los 2400-3200 mg al día bajo supervisión médica.",
-      "dosageInfo": "Adultos: 400-800 mg cada 6-8h; máx. 3200 mg/día. Niños: 5-10 mg/kg cada 6-8h; máx. 30 mg/kg/día. [1, 31, 32, 33]",
-      "interactionInfo": "Puede aumentar los efectos de anticoagulantes (warfarina), riesgo de sangrado gastrointestinal con corticoides e ISRS. [34, 35]"
+      "dosageInfo": "Adultos: 400-800 mg cada 6-8h; máx. 3200 mg/día. Niños: 5-10 mg/kg cada 6-8h; máx. 30 mg/kg/día. [34, 35, 36]",
+      "interactionInfo": "Puede aumentar los efectos de anticoagulantes (warfarina), riesgo de sangrado gastrointestinal con corticoides e ISRS. [37, 38, 39]"
     },
     {
       "id": "Q012",
@@ -143,7 +143,7 @@
       "options":,
       "correctAnswer": "b",
       "feedback": "Dolex Gripa Multi Síntomas contiene Acetaminofén (analgésico/antipirético), Fenilefrina HCl (descongestionante) y Clorfeniramina Maleato (antihistamínico).",
-      "dosageInfo": "Adultos y mayores de 12 años: 1 tableta cada 4-6 horas, sin exceder 6 tabletas al día. [36, 37]",
-      "interactionInfo": "Las interacciones de cada componente aplican (ej., acetaminofén con alcohol, clorfeniramina con depresores del SNC). [36, 37]"
+      "dosageInfo": "Adultos y mayores de 12 años: 1 tableta cada 4-6 horas según sea necesario, sin exceder 6 tabletas al día en un periodo de 24 horas. [40, 41]",
+      "interactionInfo": "Las interacciones de cada componente aplican (ej., acetaminofén con alcohol, clorfeniramina con depresores del SNC). [40, 41]"
     }
 ]
