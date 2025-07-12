@@ -72,7 +72,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function startNewQuiz() {
         if (questions.length === 0) {
-            alert('Las preguntas aún no se han cargado o no hay preguntas disponibles.');
+            alert('Las preguntas aún no se han cargado o no hay preguntas disponibles. Por favor, verifica el archivo questions.json y recarga la página.');
             return;
         }
         currentQuestionIndex = 0;
@@ -300,3 +300,4 @@ document.addEventListener('DOMContentLoaded', () => {
     loadQuestions();
     loadProgress();
 });
+                
