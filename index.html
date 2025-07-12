@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PharmaQuiz Futura</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="glassmorphism">
+        <h1 class="neon-text">PharmaQuiz Futura</h1>
+        <nav>
+            <button id="home-btn" class="futuristic-button">Inicio</button>
+            <button id="start-quiz-btn" class="futuristic-button">Iniciar Quiz</button>
+            <button id="progress-btn" class="futuristic-button">Mi Progreso</button>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home-screen" class="screen active">
+            <div class="glassmorphism card">
+                <h2 class="neon-text">Bienvenido a PharmaQuiz Futura</h2>
+                <p>Tu plataforma de aprendizaje interactivo para dominar los principios activos y nombres genéricos en la farmacia colombiana.</p>
+                <p>Prepárate para memorizar, aprender y formular medicamentos con confianza.</p>
+                <button id="start-quiz-home-btn" class="futuristic-button primary">Comenzar Ahora</button>
+            </div>
+        </section>
+
+        <section id="quiz-screen" class="screen">
+            <div class="glassmorphism card">
+                <h2 class="neon-text">Quiz de Principios Activos</h2>
+                <div id="quiz-progress-container">
+                    <div class="progress-bar-outer">
+                        <div id="quiz-progress-bar" class="progress-bar-inner"></div>
+                    </div>
+                    <span id="quiz-progress-text">Pregunta 0 de 0</span>
+                </div>
+                <div id="question-container">
+                    <p id="question-prompt" class="question-text"></p>
+                    <div id="options-container" class="options-grid"></div>
+                </div>
+                <div id="feedback-container" class="feedback-box"></div>
+                <div class="quiz-navigation">
+                    <button id="next-question-btn" class="futuristic-button">Siguiente Pregunta</button>
+                    <button id="submit-quiz-btn" class="futuristic-button primary">Finalizar Quiz</button>
+                </div>
+            </div>
+        </section>
+
+        <section id="results-screen" class="screen">
+            <div class="glassmorphism card">
+                <h2 class="neon-text">Resultados del Quiz</h2>
+                <p id="final-score" class="score-text"></p>
+                <div id="review-container"></div>
+                <button id="restart-quiz-btn" class="futuristic-button primary">Volver a Intentar</button>
+                <button id="view-progress-from-results-btn" class="futuristic-button">Ver Progreso General</button>
+            </div>
+        </section>
+
+        <section id="progress-screen" class="screen">
+            <div class="glassmorphism card">
+                <h2 class="neon-text">Mi Progreso General</h2>
+                <div id="overall-progress-display">
+                    <p>Quizzes Completados: <span id="completed-quizzes">0</span></p>
+                    <p>Puntuación Promedio: <span id="average-score">0%</span></p>
+                    <h3>Historial de Quizzes:</h3>
+                    <ul id="quiz-history-list">
+                        <li>No hay quizzes completados aún.</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 PharmaQuiz Futura. Todos los derechos reservados.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
