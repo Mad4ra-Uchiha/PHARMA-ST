@@ -300,4 +300,3 @@ document.addEventListener('DOMContentLoaded', () => {
     loadQuestions();
     loadProgress();
 });
-                
